@@ -1,9 +1,15 @@
-# NEED VERIFICATION ON LAW!
+# NEED VERIFICATION ON LAW SECTION!
 
 ### Is Tor legal in UAE?
 
+Because the law is unclear, be cautious using Tor within UAE outside of NYUAD campus.
+
 The UAE Cybercrime Law No 5 of 2012 states:
-> Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
+> Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means **for the purpose of committing a crime or preventing its discovery**, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
+
+Because Tor aims to anonymize identities of Tor users, it seems **risky** to use Tor within UAE.
+
+However, using Tor for academic purpose within NYUAD campus is legal. (Source?)
 
 
 ### Tor project page & Download Tor browser
