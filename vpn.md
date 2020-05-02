@@ -1,6 +1,7 @@
 ### Page Disclaimer: 
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**
-**Do not install nor purchase a VPN without thorough research!**
+
+**Do not install nor purchase a VPN without a thorough research process!**
 
 
 ### What is VPN?
@@ -16,6 +17,7 @@ Using a VPN means that you trust the VPN provider with all your Internet connect
 
 ### Is VPN legal in UAE?
 In short, VPN usage in UAE is limited. 
+
 VPN itself is not forbidden by law, but using VPN to access censored materials (webpages, YouTube videos, etc) or use VoIP/internet-calling services (Skype, WhatsApp calling, etc.) is a punishable offence. ([Source](https://www.thenational.ae/uae/government/use-of-vpn-still-confusing-despite-recent-law-change-1.145308))
 
 
@@ -27,8 +29,11 @@ The below issues are identified by [CSIRO study](https://www.icir.org/vern/paper
 4. (Lack of) Encryption and traffic leaks
 5. In-path proxies and traffic manipulation
 6. TLS interception
+
 You are most likely to lose more than you gain when you use free VPN services.
+
 To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
+
 To read a short summary, access [this link](https://restoreprivacy.com/best-free-vpn/). Beware of advertisements.
 
 
@@ -45,11 +50,13 @@ To access the sources of the above claims, visit *Sources and further resources*
 2. Encrypt communications when using outdated webpages & apps that do not use HTTPS protocol in public Wi-Fi.
 3. Bypass geolocked content such as YouTube and Netflix videos.
 4. Circumvention of ISP-level web blocking, such as VoIP and censored webpages.
+
 To access the sources of the above claims, visit *Sources and further resources* section below.
 
 
 ### Should I use VPN?
 It depends. Resources are provided below to help you judge.
+
 Try to understand what VPN services can and cannot do. If a VPN truely satisfies your need, try it out.
 Note that many articles may be critical of VPN services due to inflated claims of VPN businesses.
 
