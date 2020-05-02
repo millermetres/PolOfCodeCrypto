@@ -1,6 +1,5 @@
 ### Page Disclaimer: 
-**Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**
-
+**Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
 **Do not install nor purchase a VPN without a thorough research process!**
 
 
@@ -21,9 +20,7 @@ Regulations on VPN usage in UAE is complex.
 The UAE Cybercrime Law No 5 of 2012 states:
 > Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
 
-Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery".  
-For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.).  
-However, it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
+Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery". For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.). However, it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
 
 
 ### Facts on Free VPN services.
