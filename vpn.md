@@ -32,7 +32,7 @@ The below issues are identified by [CSIRO study](https://www.icir.org/vern/paper
 
 You are most likely to lose more than you gain when you use free VPN services.
 
-To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
+To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf).
 
 To read a short summary, access [this link](https://restoreprivacy.com/best-free-vpn/). Beware of advertisements.
 
@@ -42,6 +42,7 @@ Tom Scott's "[This Video Is Sponsored By ███ VPN](https://www.youtube.com/
 1. A VPN does not make you anonymous.
 2. In most cases, a VPN does not provide more security (including Military-grade encryption).
 3. No log VPN is extremely difficult to achieve and is likely to be a lie. There is no way for you to verify their statement.
+
 To access the sources of the above claims, visit *Sources and further resources* section below.
 
 
