@@ -1,0 +1,36 @@
+### What is Tor?
+From [Tor Project Support Page](https://support.torproject.org/):
+> The name "Tor" can refer to several different components.
+>
+>Tor is a program you can run on your computer that helps keep you safe on the Internet. It protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location. This set of volunteer relays is called the Tor network.
+>
+>The way most people use Tor is with Tor Browser, which is a version of Firefox that fixes many privacy issues. You can read more about Tor on our about page.
+>
+>The Tor Project is a non-profit (charity) organization that maintains and develops the Tor software.
+
+### Good Introduction
+- [Slicing onions: Part 1 – Myth-busting Tor.](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor)
+- [Slicing Onions: Part 2 – Onion recipes; VPN not required.](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-2-onion-recipes-vpn-not-required)
+
+
+### Frequently Asked Questions
+From [Tor Project Support Page](https://support.torproject.org/):
+> 1. Am I totally anonymous if I use Tor?
+
+No. It is generally impossible to have perfect anonymity. But [there are practices that improves your anonymity](https://support.torproject.org/#staying-anonymous).
+
+> 2. Can I use a VPN with Tor?
+
+It is [not recommended](https://support.torproject.org/#faq-5) unless you are an advanced user. For a proper Tor + VPN setup, visit [this page](https://trac.torproject.org/projects/tor/wiki/doc/TorPlusVPN).
+
+> 3. Can I use torrent over Tor?
+
+No, it [breaks your anonymity](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea). But you can consider [using OnionShare for file sharing over Tor](https://support.torproject.org/misc/misc-12/).
+
+
+### Sources and further resources
+- [Slicing onions: Part 1 – Myth-busting Tor.](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor)
+- [Slicing Onions: Part 2 – Onion recipes; VPN not required.](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-2-onion-recipes-vpn-not-required)
+- [Tor Project Support Page](https://support.torproject.org/)
+- [Bittorrent over Tor isn't a good idea](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea)
+- [Can I use a VPN with Tor?](https://support.torproject.org/#faq-5) Short answer: Not recommended.
