@@ -1,3 +1,15 @@
+# NEED VERIFICATION ON LAW!
+
+### Is Tor legal in UAE?
+
+The UAE Cybercrime Law No 5 of 2012 states:
+> Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
+
+
+### Tor project page & Download Tor browser
+[https://www.torproject.org/](https://www.torproject.org/)
+
+
 ### What is Tor?
 From [Tor Project Support Page](https://support.torproject.org/):
 > The name "Tor" can refer to several different components.
@@ -15,15 +27,15 @@ From [Tor Project Support Page](https://support.torproject.org/):
 
 ### Frequently Asked Questions
 From [Tor Project Support Page](https://support.torproject.org/):
-> 1. Am I totally anonymous if I use Tor?
+> Am I totally anonymous if I use Tor?
 
-No. It is generally impossible to have perfect anonymity. But [there are practices that improves your anonymity](https://support.torproject.org/#staying-anonymous).
+No. It is generally impossible to have perfect anonymity. But [there are practices that improve your anonymity](https://support.torproject.org/#staying-anonymous).
 
-> 2. Can I use a VPN with Tor?
+> Can I use a VPN with Tor?
 
 It is [not recommended](https://support.torproject.org/#faq-5) unless you are an advanced user. For a proper Tor + VPN setup, visit [this page](https://trac.torproject.org/projects/tor/wiki/doc/TorPlusVPN).
 
-> 3. Can I use torrent over Tor?
+> Can I use torrent over Tor?
 
 No, it [breaks your anonymity](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea). But you can consider [using OnionShare for file sharing over Tor](https://support.torproject.org/misc/misc-12/).
 

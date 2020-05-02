@@ -16,9 +16,16 @@ Using a VPN means that you trust the VPN provider with all your Internet connect
 
 
 ### Is VPN legal in UAE?
-In short, VPN usage in UAE is limited. 
+Regulations on VPN usage in UAE is complex. 
 
-VPN itself is not forbidden by law, but using VPN to access censored materials (webpages, YouTube videos, etc) or use VoIP/internet-calling services (Skype, WhatsApp calling, etc.) is a punishable offence. ([Source](https://www.thenational.ae/uae/government/use-of-vpn-still-confusing-despite-recent-law-change-1.145308))
+The UAE Cybercrime Law No 5 of 2012 states:
+> Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
+
+Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery".
+
+For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.).
+
+However, it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
 
 
 ### Facts on Free VPN services.
@@ -71,6 +78,8 @@ Note that many articles may be critical of VPN services due to inflated claims o
 **Beware of Advertisements.**
 - [VPN - a Very Precarious Narrative](https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html)
 - [Use of VPN still confusing despite recent law change](https://www.thenational.ae/uae/government/use-of-vpn-still-confusing-despite-recent-law-change-1.145308)
+- [Individuals can access VPNs in the UAE, with caution](https://gulfnews.com/technology/individuals-can-access-vpns-in-the-uae-with-caution-1.1872304)
+- [Dh500,000 fine if you use fraud IP in UAE](https://www.emirates247.com/news/emirates/dh500-000-fine-if-you-use-fraud-ip-in-uae-2016-07-22-1.636441)
 - [An Analysis of the Privacy and Security Risks ofAndroid VPN Permission-enabled Apps](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
 - [Free VPN Services – What You Need to Know](https://restoreprivacy.com/best-free-vpn/) Beware of ads.
 - [This Video Is Sponsored By ███ VPN](https://www.youtube.com/watch?v=WVDQEoe6ZWY)
