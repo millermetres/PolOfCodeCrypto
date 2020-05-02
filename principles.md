@@ -1,5 +1,5 @@
 # Principles
-I try to keep the following principles while working on this project
+I will try to keep the following principles while working on this project
 
 - ### Beginner friendly, but give options to dig in
     - Privacy is like a immunity. The more people who put effort to protect their privacy, the less vulnerable our society becomes. We want more people to care about their privacy.
