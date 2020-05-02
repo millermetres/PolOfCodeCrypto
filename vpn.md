@@ -21,10 +21,8 @@ Regulations on VPN usage in UAE is complex.
 The UAE Cybercrime Law No 5 of 2012 states:
 > Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
 
-Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery".
-
-For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.).
-
+Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery".  
+For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.).  
 However, it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
 
 
@@ -37,10 +35,8 @@ The below issues are identified by [CSIRO study](https://www.icir.org/vern/paper
 5. In-path proxies and traffic manipulation
 6. TLS interception
 
-You are most likely to lose more than you gain when you use free VPN services.
-
-To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf).
-
+You are most likely to lose more than you gain when you use free VPN services.  
+To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf).  
 To read a short summary, access [this link](https://restoreprivacy.com/best-free-vpn/). Beware of advertisements.
 
 
@@ -68,8 +64,7 @@ To access the sources of the above claims, visit *Sources and further resources*
 
 
 ### Should I use VPN?
-It depends. Resources are provided below to help you judge.
-
+It depends. Resources are provided below to help you judge.  
 Try to understand what VPN services can and cannot do. If a VPN truely satisfies your need, try it out.
 Note that many articles may be critical of VPN services due to inflated claims of VPN businesses.
 
