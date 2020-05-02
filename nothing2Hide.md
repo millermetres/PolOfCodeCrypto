@@ -15,4 +15,5 @@
 ### Sources and further resources
 - [Privacy Tools](https://www.privacytools.io/)
 - [Nothing to hide argument (Wikipedia)](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)
+- [We Should All Have Something To Hide](https://moxie.org/blog/we-should-all-have-something-to-hide/)
 - ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy (Daniel J. Solove - San Diego Law Review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)

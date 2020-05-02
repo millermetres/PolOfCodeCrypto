@@ -47,10 +47,15 @@ To access the sources of the above claims, visit *Sources and further resources*
 
 
 ### What VPN can do (not always/depends on services)
-1. Accessing private(meaning *internal*, nothing more) networks, such as school and workplace networks.
+1. Accessing private(meaning *internal*, nothing more) networks such as school and workplace networks.
+    - Access [NYU VPN service page on NYUAD Student Portal](https://students.nyuad.nyu.edu/services/technology-and-support/remote-connectivity-vpn/)
 2. Encrypt communications when using outdated webpages & apps that do not use HTTPS protocol in public Wi-Fi.
+    - But HTTPS is still required to prevent VPN providers from reading your communication.
 3. Bypass geolocked content such as YouTube and Netflix videos.
-4. Circumvention of ISP-level web blocking, such as VoIP and censored webpages.
+4. Circumvention of ISP-level web blocking, such as VoIP and censored websites.
+5. With a correct setup, VPN can hide your IP address from destinating webpages.
+    - VPN providers know your true IP address and destinating webpages.
+    - Hiding IP address does not mean hiding your identity. You can still be identified with browser cookies and fingerprinting.
 
 To access the sources of the above claims, visit *Sources and further resources* section below.
 
