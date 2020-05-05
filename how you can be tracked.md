@@ -1,0 +1,31 @@
+### Terms
+Uniqueness (identifiability):
+
+
+
+
+### Methods
+
+
+#### Cookies
+
+
+#### Supercookies
+
+[What Are Supercookies? Here’s How to Remove Them Properly](https://www.makeuseof.com/tag/what-are-supercookies-and-why-are-they-dangerous/)
+
+
+#### Device Fingerprinting
+Wikipedia defines device fingerprint as the following:
+> A **device fingerprint** or *machine fingerprint* is information collected about the software and hardware of a remote computing device for the purpose of identification. The information is usually assimilated into a brief identifier using a fingerprinting algorithm. A **browser fingerprint** is information collected specifically by interaction with the web browser of the device.
+
+Similar to how we leave our fingerprints all over the objects we touch, we leave our device fingerprint on web pages which we interact with - even when we use 'private' or 'incognito' mode in our browsers. To test how safe your browser is from fingerprinting, visit [Panopticlick](https://panopticlick.eff.org/).
+
+#### Behavioral Profiling
+
+[How the way you type can shatter anonymity—even on Tor](https://arstechnica.com/information-technology/2015/07/how-the-way-you-type-can-shatter-anonymity-even-on-tor/)
+
+
+### Sources and Further Resources
+- [Mozilla Wiki on Fingerprinting](https://wiki.mozilla.org/Fingerprinting)
+
