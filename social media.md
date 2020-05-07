@@ -2,8 +2,8 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=F7pYHN9iC9I
 " target="_blank"><img src="http://img.youtube.com/vi/F7pYHN9iC9I/0.jpg" 
-alt="Beware what you upload online!" width="720" height="540" border="10" /></a>  
-Beware what you upload online!  
+alt="Beware what you upload online!" width="360" height="270" border="10" /></a>  
+[Beware what you upload online!]  
 
 
 Social Media  
