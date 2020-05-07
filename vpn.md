@@ -1,14 +1,11 @@
 # VPN
 
-## Page Disclaimer
-
+**⚠ Page Disclaimer ⚠**  
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
 **Do not install nor purchase a VPN without a thorough research process!**  
-**This page focuses on warning and debunking misinformation related to VPN services**  
+**This page focuses on debunking misinformation.**  
 
 ## What is VPN?
-
-Click to expand.
 
 <details>
     <summary><strong>Wikipedia Definition</strong></summary>
@@ -16,7 +13,6 @@ Click to expand.
 > A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
 </details>
-
 <details>
     <summary><strong>A Definition from 
         <a href="https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html">
@@ -34,19 +30,26 @@ Generally, because you have many VPN providers to choose from (as oppose to your
 ## Is VPN legal in UAE?
 
 Yes, but use with caution.  
-Regulations on VPN usage in UAE is complex.
-
 <details>
-    <summary>Click to read more details</summary>
+    <summary>TLDR; Regulations on VPN usage in UAE is complex.</summary>
 
 The UAE Cybercrime Law No 5 of 2012 states:
 > Whoever uses a fraudulent computer network protocol address (IP address) by using a false address or a third-party address by any other means *for the purpose of committing a crime or preventing its discovery*, shall be punished by temporary imprisonment and a fine of no less than Dh500,000 and not exceeding Dh2,000,000, or either of these two penalties. 
 
 Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery". For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.). On the other hand, using a VPN for academic purposes (in NYUAD) is perfectly legal. But, the issue is that it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
 
+**Related Articles**
+
+- [Use of VPN still confusing despite recent law change](https://www.thenational.ae/uae/government/use-of-vpn-still-confusing-despite-recent-law-change-1.145308)
+- [Individuals can access VPNs in the UAE, with caution](https://gulfnews.com/technology/individuals-can-access-vpns-in-the-uae-with-caution-1.1872304)
+- [Dh500,000 fine if you use fraud IP in UAE](https://www.emirates247.com/news/emirates/dh500-000-fine-if-you-use-fraud-ip-in-uae-2016-07-22-1.636441)
+
 </details>
 
 ## Warnings on Free VPN services
+
+<details>
+    <summary>TLDR; You are most likely to lose more than you gain when you use free VPN services.</summary>  
 
 The below issues are identified by [CSIRO study](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
 
@@ -57,9 +60,10 @@ The below issues are identified by [CSIRO study](https://www.icir.org/vern/paper
 5. In-path proxies and traffic manipulation
 6. TLS interception
 
-You are most likely to lose more than you gain when you use free VPN services.  
 To read the full paper, access [this link](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf).  
 To read a short summary, access [this link](https://restoreprivacy.com/best-free-vpn/). Beware of advertisements.
+
+</details>
 
 ## Debunking VPN advertisements
 
@@ -99,13 +103,6 @@ Note that many of the below articles may be critical of VPN services due to infl
 
 **Beware of Advertisements.**
 
-- [VPN - a Very Precarious Narrative](https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html)
-- [Use of VPN still confusing despite recent law change](https://www.thenational.ae/uae/government/use-of-vpn-still-confusing-despite-recent-law-change-1.145308)
-- [Individuals can access VPNs in the UAE, with caution](https://gulfnews.com/technology/individuals-can-access-vpns-in-the-uae-with-caution-1.1872304)
-- [Dh500,000 fine if you use fraud IP in UAE](https://www.emirates247.com/news/emirates/dh500-000-fine-if-you-use-fraud-ip-in-uae-2016-07-22-1.636441)
-- [An Analysis of the Privacy and Security Risks ofAndroid VPN Permission-enabled Apps](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
-- [Free VPN Services – What You Need to Know](https://restoreprivacy.com/best-free-vpn/) Beware of ads.
-- [This Video Is Sponsored By ███ VPN](https://www.youtube.com/watch?v=WVDQEoe6ZWY)
 - [VPNs are Lying About Logs](https://restoreprivacy.com/vpn-logs-lies/) Beware of ads.
 - [“No Logs” IPVanish Embroiled in Logging Scandal](https://restoreprivacy.com/ipvanish-provides-logs-to-authorities/) Beware of ads.
 - [Don't use VPN services.](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
