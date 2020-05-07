@@ -80,6 +80,7 @@ Note that many of the below articles may be critical of VPN services due to infl
 - [“No Logs” IPVanish Embroiled in Logging Scandal](https://restoreprivacy.com/ipvanish-provides-logs-to-authorities/) Beware of ads.
 - [Don't use VPN services.](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 - [Beware of False Reviews - VPN Marketing and Affiliate Programs](https://vikingvpn.com/blogs/off-topic/beware-of-vpn-marketing-and-affiliate-programs)
+- [How a VPN Review Site Dominates Google Search With a Scam](https://www.pcmag.com/news/how-a-vpn-review-site-dominates-google-search-with-a-scam)
 - [More Info on VPN](https://www.privacytools.io/providers/vpn/#info)
 - [VPN Comparison](https://thatoneprivacysite.net/#detailed-vpn-comparison) Do NOT take everything as a fact
 
