@@ -40,6 +40,9 @@ To read a short summary, access [this link](https://restoreprivacy.com/best-free
 
 ### Debunking VPN advertisements
 Tom Scott's "[This Video Is Sponsored By ███ VPN](https://www.youtube.com/watch?v=WVDQEoe6ZWY)" on YouTube can be a good introduction.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WVDQEoe6ZWY
+" target="_blank"><img src="http://img.youtube.com/vi/WVDQEoe6ZWY/0.jpg" 
+alt="This Video Is Sponsored By ███ VPN" width="360" height="270" border="10" /></a>  
 1. A VPN does not make you anonymous.
 2. In most cases, a VPN does not provide more security (including Military-grade encryption).
 3. No log VPN is extremely difficult to achieve and is likely to be a lie. There is no way for you to verify their statement.
