@@ -5,7 +5,7 @@
 
 <h3>What is VPN?</h3>
 <details>
-<summary><p style="font-size:20px">What is VPN?</p></summary>
+<summary><strong>What is VPN?</strong></summary>
 <br>
 <strong>
 Wikipedia Definition
