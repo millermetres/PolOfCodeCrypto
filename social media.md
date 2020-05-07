@@ -1,9 +1,9 @@
 ### A quick introduction
-```no-highlight
+no-highlight
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=F7pYHN9iC9I
 " target="_blank"><img src="http://img.youtube.com/vi/F7pYHN9iC9I/0.jpg" 
 alt="Beware what you are uploading online." width="240" height="180" border="10" /></a>
-```
+
 
 Social Media  
 - Facebook, Instagram, TikTok, Snapchat, WhatsApp  
