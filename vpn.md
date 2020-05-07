@@ -3,8 +3,9 @@
 **Do not install nor purchase a VPN without a thorough research process!**  
 **This page focuses on warning and debunking misinformation related to VPN services**  
 
+<h3>What is VPN?</h3>
 <details>
-<h3><summary>What is VPN?</summary></h3>
+<summary><strong>What is VPN?</strong></summary>
 <br>
 <strong>
 Wikipedia Definition
@@ -12,7 +13,7 @@ Wikipedia Definition
 <br><br>
 <blockquote>
 A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
-</blockquote>
+</blockquote><br>
 <strong>
 A Definition from <a href="https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html">VPN - a Very Precarious Narrative</a>.
 </strong>
