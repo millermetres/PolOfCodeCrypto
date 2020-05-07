@@ -12,3 +12,5 @@ Social Media
 [How to Use WhatsApp While Maintaining Your Privacy](https://www.makeuseof.com/tag/whatsapp-privacy-tips/)  
 [Identifying People using Anonymous Social Networking Data](https://www.schneier.com/blog/archives/2009/04/identifying_peo.html)  
 [De-Anonymizing Social Network Users](https://www.schneier.com/blog/archives/2010/03/de-anonymizing.html)
+- https://www.telegraph.co.uk/technology/2019/04/06/teenagers-social-media-photos-used-train-ebays-ai-without-knowledge/
+- https://www.asiaone.com/asia/obsessed-fan-finds-japanese-idols-home-zooming-her-eyes
