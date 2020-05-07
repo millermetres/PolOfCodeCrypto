@@ -1,6 +1,11 @@
 ## Cross-check resources before using!
 ## Warning: some sources may be overly sentimental. Use with caution.
 
+For *General Introduction* Group:
+- https://old.reddit.com/r/privacy/wiki/index
+
+
+
 Zoom
 - https://protonmail.com/blog/zoom-privacy-issues/
 - https://9to5mac.com/2020/04/01/new-zoom-bugs-takeover-macs-cam-mic-root/
@@ -38,3 +43,10 @@ Signal
 - https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761
 - https://www.theverge.com/2020/3/7/21169533/florida-google-runkeeper-geofence-police-privacy
 
+- https://www.schneier.com/blog/archives/2013/05/the_eyes_and_ea.html
+- https://www.schneier.com/blog/archives/2011/09/identifying_spe.html
+- https://www.schneier.com/blog/archives/2013/05/reidentifying_a.html
+
+- https://www.makeuseof.com/tag/data-breach-protection/
+- https://www.makeuseof.com/tag/information-never-post-online/
+- https://www.makeuseof.com/tag/find-google-listening/

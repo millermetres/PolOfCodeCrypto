@@ -52,3 +52,4 @@ No, it [breaks your anonymity](https://blog.torproject.org/bittorrent-over-tor-i
 - [Tor Project Support Page](https://support.torproject.org/)
 - [Bittorrent over Tor isn't a good idea](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea)
 - [Can I use a VPN with Tor?](https://support.torproject.org/#faq-5) Short answer: Not recommended.
+- [Identifying Tor Users Through Insecure Applications](https://www.schneier.com/blog/archives/2011/03/identifying_tor.html)

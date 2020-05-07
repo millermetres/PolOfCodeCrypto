@@ -24,7 +24,15 @@ Similar to how we leave our fingerprints all over the objects we touch, we leave
 #### Behavioral Profiling
 
 [How the way you type can shatter anonymity—even on Tor](https://arstechnica.com/information-technology/2015/07/how-the-way-you-type-can-shatter-anonymity-even-on-tor/)
+[Using Language Patterns to Identify Anonymous E-Mail](https://www.schneier.com/blog/archives/2011/03/using_language.html)  
+[Identifying People from their Writing Style](https://www.schneier.com/blog/archives/2013/01/identifying_peo_3.html)  
 
+
+#### What you are giving out
+
+[Digital Cameras Have Unique Fingerprints](https://www.schneier.com/blog/archives/2006/04/digital_cameras.html)  
+[How to Recover Numbers from Blurred Images](https://www.schneier.com/blog/archives/2007/01/how_to_recover.html)  
+Exif
 
 ### Sources and Further Resources
 - [Mozilla Wiki on Fingerprinting](https://wiki.mozilla.org/Fingerprinting)
