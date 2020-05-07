@@ -39,6 +39,9 @@ Term(s):
 - Scrambled Exif
 - Aurora Store
 - F-Droid
+- ProtonMail
+- Signal
+- Simple Notes
 
 ## Android (technical-only for those who already know what they are doing)
 - Lineage OS: Privacy-focused Open Source android operating system.

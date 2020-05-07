@@ -4,6 +4,7 @@
 
 For *General Introduction* Group:
 - https://old.reddit.com/r/privacy/wiki/index
+- https://www.reddit.com/r/privacy/wiki/why_opensource
 
 
 
