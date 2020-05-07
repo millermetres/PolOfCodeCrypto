@@ -4,19 +4,19 @@
 **This page focuses on warning and debunking misinformation related to VPN services**  
 
 <details>
-<summary><h3>What is VPN?</h3></summary>
+<h3><summary>What is VPN?</summary></h3>
 <br>
 <strong>
 Wikipedia Definition
 </strong>
-<br>
+<br><br>
 <blockquote>
 A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 </blockquote>
 <strong>
 A Definition from <a href="https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html">VPN - a Very Precarious Narrative</a>.
 </strong>
-<br>
+<br><br>
 <blockquote>
 A VPN is a tunnel connecting two different networks. You throw traffic into one end of the tunnel, and it will come out somewhere else, even if the destination might not be reachable on the public internet. VPNs are popular in company environments: Imagine a large company running their servers with private sale data on them. The company does not want those servers to be reachable via the internet for security reasons, but at the same time, salespeople need to be able to access those datasets, even if they are on the road. The salesperson can use the company’s VPN to “move their laptop into the company network”, without the need to physically be there, so they have access to that information. In addition, network traffic sent over VPNs is generally encrypted, so even if the salesperson is using a maybe insecure network, the data is probably safe, if everything is configured correctly.
 </blockquote>
