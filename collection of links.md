@@ -2,16 +2,6 @@
 ## Warning: some sources may be overly sentimental. Use with caution.
 ## Warning: some sources may be outdated. Use with caution.
 
-For *General Introduction* Group:
-- https://www.thinkprivacy.ch/checklist.html
-- https://old.reddit.com/r/privacy/wiki/index
-- https://www.reddit.com/r/privacy/wiki/why_opensource
-- https://www.eff.org/deeplinks/2013/10/ten-steps-against-surveillance
-- https://ssd.eff.org/en/module/your-security-plan
-- https://www.makeuseof.com/tag/lessons-learned-dont-spy-us-guide-internet-privacy/
-
-
-
 Zoom
 - https://protonmail.com/blog/zoom-privacy-issues/
 - https://9to5mac.com/2020/04/01/new-zoom-bugs-takeover-macs-cam-mic-root/

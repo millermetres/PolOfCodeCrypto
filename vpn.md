@@ -1,7 +1,7 @@
 ### Page Disclaimer: 
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
-**Do not install nor purchase a VPN without a thorough research process!**
-
+**Do not install nor purchase a VPN without a thorough research process!**  
+**This page focuses on warning and debunking misinformation related to VPN services**  
 
 ### What is VPN?
 Wikipedia Definition
@@ -24,7 +24,7 @@ The UAE Cybercrime Law No 5 of 2012 states:
 Using VPN is legal unless the purpose of using a VPN is "committing a crime" or "preventing its discovery". For example, it is a punishable offence to use a VPN for accessing censored materials (blocked webpages, YouTube videos, etc) or using VoIP/internet-calling services (Skype, WhatsApp calling, etc.). On the other hand, using a VPN for academic purposes (in NYUAD) is perfectly legal. But, the issue is that it is unclear how the law will be enforced, as distinguishing the purpose VPN usage may require inspections on encrypted traffics.
 
 
-### Facts on Free VPN services.
+### Warnings on Free VPN services.
 The below issues are identified by [CSIRO study](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
 1. Third-party user tracking and access to sensitive An-droid permissions
 2. Malware presence
