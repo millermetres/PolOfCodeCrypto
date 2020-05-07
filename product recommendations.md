@@ -13,6 +13,15 @@ Term(s):
 
 ### Web
 - Firefox: FOSS Internet browser
+    - **[Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)**
+    - **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)**
+    - **[Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)**
+    - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+    - **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)**
+    - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+    - **[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)**
+    - **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)**
+    - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
 - Tor Browser: Firefox-based browser that connects to the Internet through Tor network.
 
 

@@ -15,6 +15,7 @@ Zoom
 - https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/
 - https://www.businessinsider.sg/google-bans-zoom-from-employee-computers-due-to-security-concerns-2020-4
 - https://www.reuters.com/article/us-spacex-zoom-video-commn/elon-musks-spacex-bans-zoom-over-privacy-concerns-memo-idUSKBN21J71H
+- https://privacyinternational.org/news-analysis/3678/zoom-not-worst-just-getting-attention-software-deserves
 
 COVID-19
 - https://www.theguardian.com/world/2020/apr/14/growth-in-surveillance-may-be-hard-to-scale-back-after-coronavirus-pandemic-experts-say
@@ -133,9 +134,11 @@ Signal
 - https://privacyinternational.org/appdata
 - https://www.privacyinternational.org/explainer-graphic/2725/facial-recognition-cameras-explainer
 - https://www.makeuseof.com/tag/lessons-learned-dont-spy-us-guide-internet-privacy/
-
-
-
+- https://www.politico.eu/article/hungary-no-longer-a-democracy-report/
+- https://www.bleepingcomputer.com/news/security/unpatched-ios-bug-blocks-vpns-from-encrypting-all-traffic/
+- https://www.theregister.co.uk/2020/05/04/security_roundup/
+- https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex/
+- https://www.zdnet.com/article/hacker-leaks-15-million-records-from-tokopedia-indonesias-largest-online-store/
 
 
 
