@@ -1,6 +1,12 @@
+### A quick introduction
+```no-highlight
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F7pYHN9iC9I
+" target="_blank"><img src="http://img.youtube.com/vi/F7pYHN9iC9I/0.jpg" 
+alt="Beware what you are uploading online." width="240" height="180" border="10" /></a>
+```
+
 Social Media  
 - Facebook, Instagram, TikTok, Snapchat, WhatsApp  
-- https://www.youtube.com/watch?v=F7pYHN9iC9I  
 
 [5 Common Social Media Privacy Issues (And How to Fix Them)](https://www.makeuseof.com/tag/social-media-privacy-issues/)  
 [7 Ways Hackers Steal Your Identity on Social Media](https://www.makeuseof.com/tag/how-hackers-steal-identity-on-social-media/)  
