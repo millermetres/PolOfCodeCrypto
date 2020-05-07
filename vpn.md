@@ -1,6 +1,6 @@
 # VPN
 
-**⚠ Page Disclaimer ⚠**  
+**Page Disclaimer:**  
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
 **Do not install nor purchase a VPN without a thorough research process!**  
 **This page focuses on debunking misinformation.**  
@@ -49,7 +49,7 @@ Using VPN is legal unless the purpose of using a VPN is "committing a crime" or 
 ## Warnings on Free VPN services
 
 <details>
-    <summary>TLDR; You are most likely to lose more than you gain when you use free VPN services.</summary>  
+    <summary>TLDR; You are most likely to lose more than you gain from free VPN services.</summary>  
 
 The below issues are identified by [CSIRO study](https://www.icir.org/vern/papers/vpn-apps-imc16.pdf)
 
