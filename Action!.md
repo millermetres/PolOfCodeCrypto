@@ -27,10 +27,10 @@
 
 ### I want to diagnose myself on...
 
-- ([Password Strength](https://en.wikipedia.org/wiki/Password_strength#Guidelines_for_strong_passwords)) - (and here is a [list of common weak passwords](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt))
+- [Password Strength](https://en.wikipedia.org/wiki/Password_strength#Guidelines_for_strong_passwords) - and here is a [list of common weak passwords](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
 - [Data Breaches](https://monitor.firefox.com/) - only if the breach includes your email address
 - [Fingerprinting](https://panopticlick.eff.org/)
-- [IP leackage](https://ipleak.net/)
+- [IP leak](https://ipleak.net/)
 - [Email Client Privacy](https://www.emailprivacytester.com/)
 - [Basic Browser Security](https://browseraudit.com/)
 
