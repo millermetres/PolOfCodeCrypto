@@ -110,7 +110,3 @@ Note that many of the below articles may be critical of VPN services due to infl
 - [How a VPN Review Site Dominates Google Search With a Scam](https://www.pcmag.com/news/how-a-vpn-review-site-dominates-google-search-with-a-scam)
 - [More Info on VPN](https://www.privacytools.io/providers/vpn/#info)
 - [VPN Comparison](https://thatoneprivacysite.net/#detailed-vpn-comparison) Do NOT take everything as a fact
-
-## Related Page(s)
-
-- Tor Network
