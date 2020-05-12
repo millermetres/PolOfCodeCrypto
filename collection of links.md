@@ -161,8 +161,3 @@ Trend
 - https://theconversation.com/most-americans-dont-realize-what-companies-can-predict-from-their-data-110760
 - https://privacyinternational.org/appdata
 - https://www.theregister.co.uk/2020/05/04/security_roundup/
-
-
-
-
-
