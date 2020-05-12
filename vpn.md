@@ -3,26 +3,7 @@
 **Page Disclaimer:**  
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
 **Do not install nor purchase a VPN without a thorough research process!**  
-**This page focuses on debunking misinformation.**  
-
-## What is VPN?
-
-<details>
-    <summary><strong>Wikipedia Definition</strong></summary>
-
-> A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
-
-</details>
-<details>
-    <summary><strong>A Definition from 
-        <a href="https://schub.wtf/blog/2019/04/08/very-precarious-narrative.html">
-            VPN - a Very Precarious Narrative
-        </a>
-    </strong></summary>
-
-> A VPN is a tunnel connecting two different networks. You throw traffic into one end of the tunnel, and it will come out somewhere else, even if the destination might not be reachable on the public internet. VPNs are popular in company environments: Imagine a large company running their servers with private sale data on them. The company does not want those servers to be reachable via the internet for security reasons, but at the same time, salespeople need to be able to access those datasets, even if they are on the road. The salesperson can use the company’s VPN to “move their laptop into the company network”, without the need to physically be there, so they have access to that information. In addition, network traffic sent over VPNs is generally encrypted, so even if the salesperson is using a maybe insecure network, the data is probably safe, if everything is configured correctly.
-
-</details>
+**This page focuses on debunking misinformation, and therefore is cynical**  
 
 Using a VPN means that you trust the VPN provider with all your Internet connections going through their computers.  
 Generally, because you have many VPN providers to choose from (as oppose to your limited number of local Internet Service Providers), it serves their interest to protect user privacy or at least pretend they care so they attract more customers.
@@ -81,13 +62,13 @@ To access the sources of the above claims, visit *Sources and further resources*
 
 ## What VPN can do (depends on services)
 
-1. Accessing private(meaning *internal*, nothing more) networks such as school and workplace networks.
+1. Access private(meaning *internal*, nothing more) networks such as school and workplace networks.
     - Access [NYU VPN service page on NYUAD Student Portal](https://students.nyuad.nyu.edu/services/technology-and-support/remote-connectivity-vpn/)
 2. Encrypt communications when using outdated webpages & apps that do not use HTTPS protocol in public Wi-Fi.
     - But HTTPS is still required to prevent VPN providers from reading your communication.
 3. Bypass geolocked content such as YouTube and Netflix videos.
-4. Circumvention of ISP-level web blocking, such as VoIP and censored websites.
-5. With a correct setup, a VPN can hide your IP address from destinating webpages.
+4. Circumvent ISP-level web blocking, such as VoIP and censored websites.
+5. Hide IP address from destinating webpage if correctly set up.
     - VPN providers know your true IP address and destinating webpages.
     - Hiding IP address does not mean hiding your identity. You can still be identified with browser cookies and fingerprinting.
 

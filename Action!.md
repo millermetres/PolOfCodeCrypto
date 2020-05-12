@@ -2,7 +2,7 @@
 
 **For all Contents, Judge yourself!**
 
-## Basic Actions
+## Actions by level
 
 ### If you are a beginner, you should...
 
@@ -13,7 +13,7 @@
 - Tweak social media privacy settings - [Jumbo](https://www.jumboprivacy.com/) app can help.
 - Opt-out and quit from services you don't use - [SimpleOptOut](https://simpleoptout.com/) can help.
 
-### If you are an intermediate level, you should...
+### If you are in an intermediate level, you should...
 
 - Learn more on online/offline privacy and security practices. - [Umbrella](https://secfirst.org/) app can help.
 - Use a more privacy-minded search engine such as [DuckDuckGo](https://duckduckgo.com/)
@@ -21,7 +21,7 @@
 - Use an encrypted messenger such as [Signal](https://www.signal.org/)
 - Always backup your data
 
-### If you are an advanced level, you should...
+### If you are in an advanced level, you should...
 
 - Check *Further Resources* section
 
@@ -57,7 +57,7 @@
 
 ### I want to protect my web browsing
 
-#### [Firefox](https://www.mozilla.org/en-US/firefox/new/) Standard
+#### Below are [Firefox](https://www.mozilla.org/en-US/firefox/new/) Extensions
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - block advertisements, trackers, and so on.
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - self-improving tracker blocker
