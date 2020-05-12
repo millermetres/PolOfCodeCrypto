@@ -1,6 +1,6 @@
-# Quick Actions You Can Take to Improve Your Privacy & Security
+# Actions You Can Take to Improve Your Privacy & Security
 
-**For all Contents, Judge yourself!**
+**For all contents, judge yourself!**
 
 ## Actions by level
 
@@ -8,7 +8,7 @@
 
 - Keep your software up-to-date
 - Use a password manager such as [Bitwarden](https://bitwarden.com/)
-- Use 2FA & MFA such as Duo
+- Use 2FA / MFA such as Duo
 - [Be mindful of what you share online](http://www.youtube.com/watch?feature=player_embedded&v=F7pYHN9iC9I)
 - Tweak social media privacy settings - [Jumbo](https://www.jumboprivacy.com/) app can help.
 - Opt-out and quit from services you don't use - [SimpleOptOut](https://simpleoptout.com/) can help.

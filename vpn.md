@@ -1,4 +1,4 @@
-# VPN
+# Correcting VPN Misinformation
 
 **Page Disclaimer:**  
 **Beware of VPN articles! We do not guarantee that those are without purposes other than promoting privacy!**  
@@ -63,9 +63,9 @@ To access the sources of the above claims, visit *Sources and further resources*
 ## What VPN can do (depends on services)
 
 1. Access private(meaning *internal*, nothing more) networks such as school and workplace networks.
-    - Access [NYU VPN service page on NYUAD Student Portal](https://students.nyuad.nyu.edu/services/technology-and-support/remote-connectivity-vpn/)
+    - [NYU VPN service page on NYUAD Student Portal](https://students.nyuad.nyu.edu/services/technology-and-support/remote-connectivity-vpn/)
 2. Encrypt communications when using outdated webpages & apps that do not use HTTPS protocol in public Wi-Fi.
-    - But HTTPS is still required to prevent VPN providers from reading your communication.
+    - HTTPS is still required to prevent VPN providers from reading your communication.
 3. Bypass geolocked content such as YouTube and Netflix videos.
 4. Circumvent ISP-level web blocking, such as VoIP and censored websites.
 5. Hide IP address from destinating webpage if correctly set up.
@@ -74,11 +74,11 @@ To access the sources of the above claims, visit *Sources and further resources*
 
 To access the sources of the above claims, visit *Sources and further resources* section below.
 
-## Should I use VPN?
+## Should I use a VPN?
 
 It depends. Resources are provided below to help you judge.  
-Try to understand what VPN services can and cannot do. If a VPN truely satisfies your need, try it out.  
-Note that many of the below articles may be critical of VPN services due to inflated claims of VPN businesses.
+Try to understand what VPN services can and cannot do. If a VPN truely satisfies your need, you should use a VPN.  
+Note that many of the below articles may be cynical toward VPN services due to inflated claims of VPN market.
 
 ## Sources and further resources
 
