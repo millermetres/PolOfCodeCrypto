@@ -9,6 +9,7 @@
 - Update your software
 - Use a password manager & change your password
 - Use 2FA & MFA such as Duo
+- [Be mindful of what you share online](http://www.youtube.com/watch?feature=player_embedded&v=F7pYHN9iC9I)
 - Install [Jumbo](https://www.jumboprivacy.com/) app on your phone
 
 ### If you are an intermediate level, you should...
@@ -34,6 +35,8 @@
 - [Email Client Privacy](https://www.emailprivacytester.com/)
 - [Basic Browser Security](https://browseraudit.com/)
 
+## Product/Service Recommendations
+
 ### I want to protect my files... 
 
 - [sitting in my hard drive.](https://www.veracrypt.fr/en/Downloads.html)
@@ -48,9 +51,8 @@
   - [nada](https://getnada.com/)
 - If you need periodic email, use email aliases such as:
   - [SimpleLogin](https://simplelogin.io/)
-- Use fake identity. You can be creative or use:
+- Use fake identity. You can be creative or borrow some from:
   - [Fake Address Generator](https://www.fakeaddressgenerator.com/)
-
 
 ### I want to protect my privacy on...
 

@@ -32,7 +32,10 @@ Similar to how we leave our fingerprints all over the objects we touch, we leave
 
 [Digital Cameras Have Unique Fingerprints](https://www.schneier.com/blog/archives/2006/04/digital_cameras.html)  
 [How to Recover Numbers from Blurred Images](https://www.schneier.com/blog/archives/2007/01/how_to_recover.html)  
-Exif
+Exif  
+[Content of Photo](https://www.asiaone.com/asia/obsessed-fan-finds-japanese-idols-home-zooming-her-eyes)
+
+#### Spyware
 
 ### Sources and Further Resources
 - [Mozilla Wiki on Fingerprinting](https://wiki.mozilla.org/Fingerprinting)
